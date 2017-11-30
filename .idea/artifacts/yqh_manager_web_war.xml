@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="yqh-manager-web:war">
+    <output-path>$PROJECT_DIR$/../yqh-manager/yqh-manager-web/target</output-path>
+    <root id="archive" name="tt-manager-web.war">
+      <element id="artifact" artifact-name="yqh-manager-web:war exploded" />
+    </root>
+  </artifact>
+</component>

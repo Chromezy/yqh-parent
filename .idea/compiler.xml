@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="yqh-common" />
+        <module name="yqh-manager-dao" />
+        <module name="yqh-manager-interface" />
+        <module name="yqh-manager-pojo" />
+        <module name="yqh-manager-service" />
+        <module name="yqh-manager-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.7">
+      <module name="yqh-common" target="1.8" />
+      <module name="yqh-manager" target="1.8" />
+      <module name="yqh-manager-dao" target="1.8" />
+      <module name="yqh-manager-interface" target="1.8" />
+      <module name="yqh-manager-pojo" target="1.8" />
+      <module name="yqh-manager-service" target="1.8" />
+      <module name="yqh-manager-web" target="1.8" />
+      <module name="yqh-parent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../yqh-common/yqh-common.iml" filepath="$PROJECT_DIR$/../yqh-common/yqh-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yqh-manager/yqh-manager.iml" filepath="$PROJECT_DIR$/../yqh-manager/yqh-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yqh-manager/yqh-manager-dao/yqh-manager-dao.iml" filepath="$PROJECT_DIR$/../yqh-manager/yqh-manager-dao/yqh-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yqh-manager/yqh-manager-interface/yqh-manager-interface.iml" filepath="$PROJECT_DIR$/../yqh-manager/yqh-manager-interface/yqh-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yqh-manager/yqh-manager-pojo/yqh-manager-pojo.iml" filepath="$PROJECT_DIR$/../yqh-manager/yqh-manager-pojo/yqh-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yqh-manager/yqh-manager-service/yqh-manager-service.iml" filepath="$PROJECT_DIR$/../yqh-manager/yqh-manager-service/yqh-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yqh-manager/yqh-manager-web/yqh-manager-web.iml" filepath="$PROJECT_DIR$/../yqh-manager/yqh-manager-web/yqh-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yqh-parent.iml" filepath="$PROJECT_DIR$/yqh-parent.iml" />
+    </modules>
+  </component>
+</project>
